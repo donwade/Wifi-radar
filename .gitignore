@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# other
+*.keep
+parse4*
+errors.*
